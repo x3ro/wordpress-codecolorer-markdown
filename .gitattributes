@@ -1,1 +1,4 @@
 * text=auto !eol
+/class.codecolorer_markdownextra_parser.php -text
+/codecolorer-markdown.php -text
+/readme.txt -text
