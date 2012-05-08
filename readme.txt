@@ -4,7 +4,7 @@ Donate link: http://github.com/x3ro/wordpress-codecolorer-markdown
 Tags: codecolorer, markdown, syntax, highlighting
 Requires at least: 3.0
 Tested up to: 3.3.2
-Stable tag: trunk
+Stable tag: v0.1-alpha
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
