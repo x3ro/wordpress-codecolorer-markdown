@@ -4,7 +4,7 @@
 Plugin Name: CodeColorer comaptiblity with "Markdown for WordPress and bbPress"
 Plugin URI: http://github.com/x3ro/wordpress-codecolorer-markdown
 Description: Automatically highlight markdown code-blocks with CodeColorer
-Version: 0.1-alpha
+Version: 0.1.1
 Author: Lucas Jenss
 Author URI: http://github.com/x3ro
 License: MIT

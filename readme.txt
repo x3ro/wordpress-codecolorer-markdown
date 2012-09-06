@@ -3,8 +3,8 @@ Contributors: x3ro
 Donate link: http://github.com/x3ro/wordpress-codecolorer-markdown
 Tags: codecolorer, markdown, syntax, highlighting
 Requires at least: 3.0
-Tested up to: 3.3.2
-Stable tag: v0.1-alpha
+Tested up to: 3.4.1
+Stable tag: v0.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
