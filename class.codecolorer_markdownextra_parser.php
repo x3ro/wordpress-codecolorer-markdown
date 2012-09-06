@@ -22,7 +22,7 @@ class CodeColorer_MarkdownExtra_Parser extends MarkdownExtra_Parser  {
         $codeblock = preg_replace('/\A\n+|\n+\z/', '', $codeblock);
 
         // Extract the first line from the code-block if it is enclosed in colons
-        $matched = preg_match('/:([a-z0-9]*):(.*)/ims', $codeblock, $out);
+        $matched = preg_match('/^[ \t]*:([a-z0-9]*):(.*)/ims', $codeblock, $out);
         $language = $out[1];
         $code = $out[2];
 
